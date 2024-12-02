@@ -73,3 +73,19 @@
   font-weight: 700;
   text-decoration: none;
 }
+
+.descrição__titulo-livro-avaliacao {
+  color: var(--azul);
+  font-size: 18px;
+  font-weight: 700;
+  padding: 0.5em 0.2em 0.5em 0;
+}
+
+.descrição__texto-avaliacao {
+  font-size: 14px;
+  margin-right: 1em;
+}
+
+.avaliacao__livro{
+  margin-bottom: .5em;
+}
